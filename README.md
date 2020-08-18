@@ -7,7 +7,8 @@ Please provide at least one sentence on your background and one sentence on your
 > and other industry labs for over 20 years. I like coding and data analysis and would like to share my 
 > passion with you teaching this course. 
 
-Please make sure there is 'I am Firstname Lastname' in your `utknetid.md`
+Please make sure there is a sentence I am Firstname Lastname' in your `utknetid.md`. Your utknetid is 
+the part of your email address that preceeds "@vols.utk.edu".
 
 Follow the remaining instructions in [initial tasks](https://github.com/fdac20/news/blob/master/Preliminary.md)
 
@@ -15,34 +16,34 @@ Follow the remaining instructions in [initial tasks](https://github.com/fdac20/n
 Information on forming teams
 ===================================
 
-As you’ll see in the Team Policy Statement below, you
+As you'll see in the Team Policy Statement below, you
 will have assigned roles in your teams (coordinator, recorder, checker, etc.) 
 that rotate among the members. You may be inclined to ignore these role
 assignments and just do the work in any way that
 comes to mind, or maybe one team member will
 actually do the coordinating all semester no matter who is supposed
 to be doing it for a given
-assignment. That’s a mistake. I strongly advise you
-to take the roles seriously --— your work will go more
+assignment. That's a mistake. I strongly advise you
+to take the roles seriously --- your work will go more
 smoothly and turn out better if you do. Also, the
-roles each involve different skills, all of which you’ll
+roles each involve different skills, all of which you'll
 need to function effectively as professionals. Now
-is the time to start picking up those skills—and you
-can’t do it if you never take on the roles.
+is the time to start picking up those skills and you
+can't do it if you never take on the roles.
 
 Some teams like to divide and conquer, parceling
 out different parts of the assignment, completing
 them individually, and stapling the different parts
 together and handing them in (perhaps after first
 recopying them in a single handwriting to make it
-look more like a unified effort). Don’t do it! On
+look more like a unified effort). Don't do it! On
 tests and/or when you report on your work, you
 will be examined individually on every aspect of
 the assignment, and your grade will depend in part
 on how well you understand both the part that you
 mainly did and all the other parts. Before you hand
 anything in, go over it in detail and make sure
-you’re ready for that examination.
+you're ready for that examination.
 
 A common mistake is for teams to sit around a table
 and solve all problems together. What usually happens is that someone on the team is faster than the
@@ -88,7 +89,7 @@ three, the same person should cover the monitor and checker roles.
 * Review returned assignments, read any comments made in the pull
  request. Correct if corrections are needed.
  
-* Consult with your instructor if a conflict arises that can’t be worked through by the team.
+* Consult with your instructor if a conflict arises that can't be worked through by the team.
 
 * Dealing with non-cooperative team members. If a team member refuses to cooperate on an assignment, his/
 her name should not be included on the completed work. If the problem persists, the team should meet with
@@ -100,7 +101,7 @@ meet with his/her instructor to discuss options. Similarly, students who are con
 for their team may issue a warning memo that they will quit unless they start getting cooperation, and a
 second memo quitting the team if the cooperation is not forthcoming. Students who get fired or quit must
 either find another team willing to add them as a member or get zeroes for the remaining assignments.
-As you will find out, group work isn’t always easy—team members sometimes cannot prepare for or attend
+As you will find out, group work isn't always easy --- team members sometimes cannot prepare for or attend
 group sessions because of other responsibilities, and conflicts often result from differing skill levels and work
 ethics. When teams work and communicate well, however, the benefits more than compensate for the difficulties.
 One way to improve the chances that a team will work well is to agree beforehand on what everyone on the team
